@@ -2079,10 +2079,10 @@
   resolved "https://registry.yarnpkg.com/@multiformats/base-x/-/base-x-4.0.1.tgz#95ff0fa58711789d53aefb2590a8b7a4e715d121"
   integrity sha512-eMk0b9ReBbV23xXU693TAIrLyeO5iTgBZGSJfpqriG8UkYvr/hC9u9pyMlAakDNHWmbhMZCDs6KQO0jzKD8OTw==
 
-"@nexiswap/sdk@1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@nexiswap/sdk/-/sdk-1.0.2.tgz#3aec87276aaf341714eed3f40c0b3c0261b06d7f"
-  integrity sha512-DyPefUOfsLYl2YrTw3jArMTJ0iy7GdBCN/ZhtaxWmFzwE8J7XE+yd94nwZV8oj5C34b4flm7xRMtB3h27n8QXw==
+"@nexiswap/sdk@1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@nexiswap/sdk/-/sdk-1.0.10.tgz#07035da70915b0217390a5076f1e2989a9922c0d"
+  integrity sha512-kycpg0P8Jjbpn7Km9YgSQVtXhhY11GotSixapNvVqjjP6J6Q8x8q2I5oqnkx5/Ma3Plf+vd8i1UdKNX0c5WLyQ==
   dependencies:
     big.js "^5.2.2"
     decimal.js-light "^2.5.0"

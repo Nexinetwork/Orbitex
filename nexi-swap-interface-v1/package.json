@@ -7,7 +7,7 @@
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
     "@crowdin/crowdin-api-client": "^1.8.16",
-    "@nexiswap/sdk": "1.0.5",
+    "@nexiswap/sdk": "1.0.10",
     "@ethersproject/experimental": "^5.0.1",
     "@crytoswap-libs/uikit": "1.1.20",
     "@popperjs/core": "^2.4.4",
@@ -110,5 +110,10 @@
       "last 1 safari version"
     ]
   },
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "volta": {
+    "node": "16.20.2",
+    "yarn": "1.22.21",
+    "npm": "10.2.5"
+  }
 }
