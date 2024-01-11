@@ -46,7 +46,7 @@ export default function CurrencyLogo({
   }, [currency, uriLocations])
 
   if (currency === ETHER) {
-    return <StyledBnbLogo src="/images/coins/0xfB000De07a23Bd3670e94e5F02A5a293424B98B6.png" size={size} style={style} />
+    return <StyledBnbLogo src="/images/coins/0x74cA89e0a98145feA0142ECf9fB7b6964585621E.png" size={size} style={style} />
   }
 
   return (currency as any)?.symbol ? (
